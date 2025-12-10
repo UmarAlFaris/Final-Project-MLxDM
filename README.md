@@ -1,4 +1,4 @@
-# Final-Project-MLxDM
+# Final Project Machine Learning x Data Mining
 
 Anggota Kelompok: <br>
 
